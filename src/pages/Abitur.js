@@ -50,30 +50,30 @@ import "swiper/css/pagination";
 // import fmfh7 from '../img/abitur/fmfh/7.jpg';
 // import fmfh8 from '../img/abitur/fmfh/8.jpg';
 
-import pf1 from "../img/abitur/pf/1.jpg";
-import pf2 from "../img/abitur/pf/2.jpg";
-import pf3 from "../img/abitur/pf/3.jpg";
-import pf4 from "../img/abitur/pf/4.jpg";
-import pf5 from "../img/abitur/pf/5.jpg";
-import pf6 from "../img/abitur/pf/6.jpg";
-import pf7 from "../img/abitur/pf/7.jpg";
-import pf8 from "../img/abitur/pf/8.jpg";
-import pf9 from "../img/abitur/pf/9.jpg";
-import pf10 from "../img/abitur/pf/10.jpg";
-import pf11 from "../img/abitur/pf/11.jpg";
-import pf12 from "../img/abitur/pf/12.jpg";
-import pf13 from "../img/abitur/pf/13.jpg";
+// import pf1 from "../img/abitur/pf/1.jpg";
+// import pf2 from "../img/abitur/pf/2.jpg";
+// import pf3 from "../img/abitur/pf/3.jpg";
+// import pf4 from "../img/abitur/pf/4.jpg";
+// import pf5 from "../img/abitur/pf/5.jpg";
+// import pf6 from "../img/abitur/pf/6.jpg";
+// import pf7 from "../img/abitur/pf/7.jpg";
+// import pf8 from "../img/abitur/pf/8.jpg";
+// import pf9 from "../img/abitur/pf/9.jpg";
+// import pf10 from "../img/abitur/pf/10.jpg";
+// import pf11 from "../img/abitur/pf/11.jpg";
+// import pf12 from "../img/abitur/pf/12.jpg";
+// import pf13 from "../img/abitur/pf/13.jpg";
 
-// import spf1 from '../img/abitur/spf/1.jpg';
-// import spf2 from '../img/abitur/spf/2.jpg';
-// import spf3 from '../img/abitur/spf/3.jpg';
-// import spf4 from '../img/abitur/spf/4.jpg';
-// import spf5 from '../img/abitur/spf/5.jpg';
-// import spf6 from '../img/abitur/spf/6.jpg';
-// import spf7 from '../img/abitur/spf/7.jpg';
-// import spf8 from '../img/abitur/spf/8.jpg';
-// import spf9 from '../img/abitur/spf/9.jpg';
-// import spf10 from '../img/abitur/spf/10.jpg';
+import spf1 from "../img/abitur/spf/1.jpg";
+import spf2 from "../img/abitur/spf/2.jpg";
+import spf3 from "../img/abitur/spf/3.jpg";
+import spf4 from "../img/abitur/spf/4.jpg";
+import spf5 from "../img/abitur/spf/5.jpg";
+import spf6 from "../img/abitur/spf/6.jpg";
+import spf7 from "../img/abitur/spf/7.jpg";
+import spf8 from "../img/abitur/spf/8.jpg";
+import spf9 from "../img/abitur/spf/9.jpg";
+import spf10 from "../img/abitur/spf/10.jpg";
 
 // import tf1 from '../img/abitur/tf/1.jpg';
 // import tf2 from '../img/abitur/tf/2.jpg';
@@ -165,29 +165,29 @@ const images = [
   // fmfh6,
   // fmfh7,
   // fmfh8,
-  pf1,
-  pf2,
-  pf3,
-  pf4,
-  pf5,
-  pf6,
-  pf7,
-  pf8,
-  pf9,
-  pf10,
-  pf11,
-  pf12,
-  pf13,
-  // spf1,
-  // spf2,
-  // spf3,
-  // spf4,
-  // spf5,
-  // spf6,
-  // spf7,
-  // spf8,
-  // spf9,
-  // spf10,
+  // pf1,
+  // pf2,
+  // pf3,
+  // pf4,
+  // pf5,
+  // pf6,
+  // pf7,
+  // pf8,
+  // pf9,
+  // pf10,
+  // pf11,
+  // pf12,
+  // pf13,
+  spf1,
+  spf2,
+  spf3,
+  spf4,
+  spf5,
+  spf6,
+  spf7,
+  spf8,
+  spf9,
+  spf10,
   // tf1,
   // tf2,
   // tf3,
