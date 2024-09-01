@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gsgupanelspf/static/css/main.49539a97.css",
+    "main.js": "/gsgupanelspf/static/js/main.d132ed22.js",
+    "static/media/4.jpg": "/gsgupanelspf/static/media/4.aac15a53c3ffba1ccd37.jpg",
+    "static/media/3.jpg": "/gsgupanelspf/static/media/3.ac85f19ba21394eea61c.jpg",
+    "static/media/1.jpg": "/gsgupanelspf/static/media/1.ac3a0428a709b7d31900.jpg",
+    "static/media/2.jpg": "/gsgupanelspf/static/media/2.475308b76c38703db537.jpg",
+    "static/media/5.jpg": "/gsgupanelspf/static/media/5.7db684a09d10f6119a2f.jpg",
+    "static/media/9.jpg": "/gsgupanelspf/static/media/9.c3c1db9207531a76ee54.jpg",
+    "static/media/7.jpg": "/gsgupanelspf/static/media/7.6464ab64411e683b2a36.jpg",
+    "static/media/6.jpg": "/gsgupanelspf/static/media/6.3bae8c33525e51fd2762.jpg",
+    "static/media/8.jpg": "/gsgupanelspf/static/media/8.5da11745174429a2fbcf.jpg",
+    "static/media/10.jpg": "/gsgupanelspf/static/media/10.4f18a3a298e5c0341112.jpg",
+    "static/media/gsgu-logo.png": "/gsgupanelspf/static/media/gsgu-logo.9055daa83ee61a93c670.png",
+    "static/media/qr-vk.svg": "/gsgupanelspf/static/media/qr-vk.35d2e737dee9e99fd17b6574b8c49396.svg",
+    "index.html": "/gsgupanelspf/index.html",
+    "main.49539a97.css.map": "/gsgupanelspf/static/css/main.49539a97.css.map",
+    "main.d132ed22.js.map": "/gsgupanelspf/static/js/main.d132ed22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49539a97.css",
+    "static/js/main.d132ed22.js"
+  ]
+}
